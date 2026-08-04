@@ -9,7 +9,7 @@ import shutil
 # -----------------------------
 # Config
 # -----------------------------
-API_KEY = "f4pCso2oY1jQ8D3h1oRQ"          # rotate the old one you posted earlier!
+API_KEY = "*******************"          # rotate the old one you posted earlier!
 WORKSPACE_NAME = "aayushmas-workspace-k2yif"
 WORKFLOW_ID = "general-segmentation-api-3"
 CLASSES = ["Leaf"]           # set to whatever your workflow expects
